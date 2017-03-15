@@ -1,0 +1,22 @@
+{
+  "name": "study-grunt",
+  "version": "1.0.0",
+  "description": "study grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamPan66/study-grunt.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamPan66/study-grunt/issues"
+  },
+  "homepage": "https://github.com/SamPan66/study-grunt#readme"
+}
